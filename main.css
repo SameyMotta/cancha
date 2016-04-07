@@ -1,0 +1,64 @@
+/* Inserta tu CSS aqui */
+.a{
+	height: 500px;
+	width: 800px;
+	background-color: #89C18B;
+	position: absolute;
+	padding: 10px;
+}
+.b{
+	height: 450px;
+	width: 750px;
+	background-color:#89C18B;
+	position: relative;
+	border: 1px solid white;
+	top:  25px;
+	left: 25px;
+}
+.c{
+	height: 250px;
+	width: 100px;
+	border: 1px solid white;
+	position: absolute;
+	top:150px;
+	left: 42px;
+	display: inline-block;
+
+}
+.d{
+	border: 1px solid white;
+	border-radius: 100px;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	top: 200px;
+	left: 350px;
+	display: inline-block;
+}
+.e{
+	height: 250px;
+	width: 100px;
+	border: 1px solid white;
+	position: absolute;
+	top:150px;
+	left:692px;
+	display: inline-block;
+}
+.bola1{
+	position:absolute;
+	top: 110px ;
+	left:88px ;
+}
+.bola2{
+	position:absolute;
+	top:100px ;
+	left:400px ;
+}
+.bola3{
+	position:absolute;
+	top: 380px ;
+	left:660px ;
+}
+
+
+
